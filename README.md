@@ -16,5 +16,5 @@ The development of this task view is fairly new, still in its early stages and t
 **Basic Statistical Concepts**
 
 Functionality	  |    PyPi Link	   | Description
-------------------------|------------------|--------------------------------
-Descriptive Statistics
+------------------------|------------------|---------------------------------------------------------
+Descriptive Statistics. | [pandas.DataFrame.describe](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html) | Descriptive statistics include those that summarize the central tendency, dispersion, and shape of a dataset’s distribution
