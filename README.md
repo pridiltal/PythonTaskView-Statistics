@@ -17,4 +17,5 @@ The development of this task view is fairly new, still in its early stages and t
 
 Functionality	  |    PyPi Link	   | Description
 ------------------------|------------------|---------------------------------------------------------
-Descriptive Statistics. | [pandas.DataFrame.describe](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html) | Descriptive statistics include those that summarize the central tendency, dispersion, and shape of a dataset’s distribution
+Descriptive Statistics  [statistics](https://docs.python.org/3/library/statistics.html) |This is a built-in Python library for descriptive statistics. This module provides functions for calculating mathematical statistics of numeric (Real-valued) data.
+Descriptive Statistics | [pandas.DataFrame.describe](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html) | Descriptive statistics include those that summarize the central tendency, dispersion, and shape of a dataset’s distribution
