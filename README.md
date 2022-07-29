@@ -12,3 +12,9 @@ Python Task View for Elements of Statistics is a collaborative open-source proje
 This Python task view's initial proposed list mirrors a set of widely used statistical data analysis techniques. This may evolve over time to more accurately reflect the grouping of tasks in the Python universe.
 
 The development of this task view is fairly new, still in its early stages and therefore subject to changes. Please send suggestions for additions and extensions to this task view to the task view maintainer.
+
+**Basic Statistical Concepts**
+
+Functionality	  |    PyPi Link	   | Description
+------------------------|------------------|--------------------------------
+Descriptive Statistics
