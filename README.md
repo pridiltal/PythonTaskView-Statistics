@@ -1,4 +1,4 @@
-# Python Task View for Elements of Statistic
+# Python Task View for Elements of Statistics
 
                                                                      
 --------------- --------------------------------------------------   
