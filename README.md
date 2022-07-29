@@ -1,10 +1,8 @@
 # Python Task View for Elements of Statistic
 
-**Maintainer**: Priyanga Dilini Talagala, Rob J. Hyndman
-
-**Contact**: pritalagala at gmail.com
-
-**Version**: 2022-7-29
+**Maintainer**: Priyanga Dilini Talagala \newline
+**Contact**: pritalagala at gmail.com \newline
+**Version**: 2022-7-29 \newline
 
 
 Python Task View for Elements of Statistics is a collaborative open-source project that aims to document best-practice approaches to statistical analysis in Python. This Task View is a set of functions that indicate which Python packages and functions are relevant for a given statistical data analysis task. They are not, however, intended to endorse the "best" tools and practices for any given task.
