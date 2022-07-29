@@ -21,5 +21,10 @@ Descriptive Statistics | [statistics](https://docs.python.org/3/library/statisti
 Descriptive Statistics | [pandas.DataFrame.describe](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html) | Descriptive statistics include those that summarize the central tendency, dispersion, and shape of a dataset’s distribution
 Descriptive Statistics | [Numpy.routines.statitics](https://numpy.org/doc/stable/reference/routines.statistics.html)  | Thi sis third-party library for numerical computing, optimized for working with single- and multi-dimensional arrays. This library contains many routines for statistical analysis.
 Descriptive Statistics   |[scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html) |  This is a third-party library for scientific computing based on NumPy. This module contains a large number of probability distributions, summary and frequency statistics, correlation functions and statistical tests, masked statistics, kernel density estimation, quasi-Monte Carlo functionality, etc.
- ||
-Data Visualization | |
+
+**Data Visualization**
+
+**Basic Statistical Concepts**
+
+Functionality	  |    PyPi Link	   | Description
+------------------------|------------------|---------------------------------------------------------
